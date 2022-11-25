@@ -1,12 +1,19 @@
+/*
+:root {
+    --bs-primary:#b5b2ac;
+    --bs
+
+}*/
 footer{
     padding: 1rem;
 }
-ul{
-    padding: 1rem;
-}
-
 body{
     background-color: #847663;
+}
+
+ul{
+    padding: 1rem; 
+    align-items: center;
 }
 h4{
     color: #b5b2ac;
@@ -14,4 +21,7 @@ h4{
 h1{
     text-align: center;
 }
-/**/
+/*
+@media (min-width: 768px){
+
+}*/
