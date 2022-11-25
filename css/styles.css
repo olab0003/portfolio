@@ -9,11 +9,13 @@ footer{
 }
 body{
     background-color: #847663;
+    font-size: larger;
+    font-family: 'Open Sans', sans-serif;
 }
+
 
 ul{
     padding: 1rem; 
-    align-items: center;
 }
 h4{
     color: #b5b2ac;
@@ -21,6 +23,14 @@ h4{
 h1{
     text-align: center;
 }
+:root{
+    --bs-success-rgb: 181, 178, 172;
+}
+
+.nav-pills{
+    --bs-nav-pills-link-active-bg: #b5b2ac;
+}
+
 /*
 @media (min-width: 768px){
 
